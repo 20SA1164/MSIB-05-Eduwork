@@ -1,0 +1,53 @@
+h1 {
+	margin-top: 100px;
+	margin-left: 250px;
+	font-family: arial;
+	font-size: 80px;
+}
+
+hr {
+	margin-left: 257px;
+	margin-top: -30px;
+	width: 65px;
+	background-color: yellow;
+	border: solid yellow;
+}
+
+h5 {
+	margin-left: 257px;
+	font-family: arial;
+	font-size: 15px;
+	margin-top: 50px;
+}
+
+.kal1 {
+	margin-left: 257px;
+	font-family: arial;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.kal2 {
+	margin-left: 257px;
+	font-family: arial;
+	font-size: 12px;
+}
+
+button {
+	margin-left: 257px;
+	margin-top: 25px;
+	background-color: yellow;
+	border: solid yellow;
+}
+
+button:hover {
+	background-color: white;
+	border: solid white;
+}
+
+img {
+	width: 500px;
+	height: 300px;
+	margin-left: 200px;
+	margin-top: 170px;
+}
