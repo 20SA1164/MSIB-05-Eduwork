@@ -1,0 +1,19 @@
+body {
+	background-color: #bfebf4;
+}
+
+.container {
+	margin-top: 180px;
+	border: 1px solid rgb(229, 215, 215);
+	box-shadow: 0 0 10 px black;
+	background-color: white;
+	padding: 50px;
+	height: 350px !important;
+	width: 600px !important;
+}
+
+h3 {
+	text-align: left;
+	font-family: arial;
+	font-weight: 700 !important;
+}
